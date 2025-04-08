@@ -2,6 +2,7 @@ package ru.andreqa;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello AndreQA!");
+        String b = "Успел первым изменить";
+        System.out.println(b);
     }
 }
